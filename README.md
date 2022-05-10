@@ -8,7 +8,7 @@ The file ap-input.csv should be placed in the same folder as the python script.
 
 After the script has run the file ap-output-from-csv.txt is created in the same folder.
 
-The ap-input.csv provided is from en export inside the WLC Gui. 
+The file ap-input.csv provided is from an export inside the WLC Gui (Monitoring -> Wireless -> AP Statistics). The scripts reads from the first column skiping the first row. You can build the file any way you want and not necessarily export it from the WLC.
 
 
 Kristian Winckler
