@@ -1,4 +1,4 @@
-# Cisco WLC Catalyst 9800 macro/micro cell
+# Cisco Catalyst 9800 WLC macro/micro cell
 Use a CSV file with AP names as input to get CLI syntax to setup APs for Macro Micro cell configuration. Python script.
 
 Input file: ap-input.csv
